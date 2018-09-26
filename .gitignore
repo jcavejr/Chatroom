@@ -1,2 +1,6 @@
 *.o
 bin/*
+CMakeFiles/*
+*.cmake
+CMakeCache.txt
+Makefile
