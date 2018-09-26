@@ -1,0 +1,3 @@
+// the configured options and settings for Chatroom
+#define Chatroom_VERSION_MAJOR @Chatroom_VERSION_MAJOR@
+#define Chatroom_VERSION_MINOR @Chatroom_VERSION_MINOR@
